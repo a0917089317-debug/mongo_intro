@@ -48,7 +48,7 @@ export default function Home() {
               樹熟直送到府
             </h1>
             <p className="mt-6 max-w-md text-[15px] leading-8 text-[#f6f1e7]/80">
-              陳家果園日照充足、精心疏果，每一顆都甜度飽滿、香氣濃郁，
+              自家果園日照充足、精心疏果，每一顆都甜度飽滿、香氣濃郁，
               從產地直接送到您的餐桌。
             </p>
 
